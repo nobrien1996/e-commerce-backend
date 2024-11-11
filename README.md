@@ -5,7 +5,7 @@ In this project, we had to complete the code to create the routes and models for
 
 ## Links
 
-Video walk-through: https://github.com/nobrien1996/module-13-challenge
+Video walk-through: https://drive.google.com/file/d/1eVSaYhTyfKJQVAacjbco0PNh3OsyoZth/view
 
 Repository: https://github.com/nobrien1996/e-commerce-backend
 
